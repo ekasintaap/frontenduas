@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/frontenduas/static/css/main.2f71168d.css",
+    "main.js": "/frontenduas/static/js/main.fbcfc647.js",
+    "static/js/787.a8779f75.chunk.js": "/frontenduas/static/js/787.a8779f75.chunk.js",
+    "static/media/shoes.png": "/frontenduas/static/media/shoes.f3e08fdd840ce887dc73.png",
+    "static/media/undraw_web_shopping_re_owap.svg": "/frontenduas/static/media/undraw_web_shopping_re_owap.68b2c35a6c8e688313c0d8204dca03e4.svg",
+    "static/media/user.svg": "/frontenduas/static/media/user.e27af67272cffba64b0aa4f01ac42727.svg",
+    "index.html": "/frontenduas/index.html",
+    "main.2f71168d.css.map": "/frontenduas/static/css/main.2f71168d.css.map",
+    "main.fbcfc647.js.map": "/frontenduas/static/js/main.fbcfc647.js.map",
+    "787.a8779f75.chunk.js.map": "/frontenduas/static/js/787.a8779f75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f71168d.css",
+    "static/js/main.fbcfc647.js"
+  ]
+}
